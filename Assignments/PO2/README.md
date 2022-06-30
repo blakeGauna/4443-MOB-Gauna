@@ -7,8 +7,3 @@
 
 
 
-
-### Files
-|   #   | File            | Description                                        |
-| :---: | --------------- | -------------------------------------------------- |
-|   1   | [_pycache_](https://github.com/blakeGauna/4443-MOB-Gauna/tree/main/Assignments/PO1/04_quizzler_api/__pycache__)  | pycache        |
