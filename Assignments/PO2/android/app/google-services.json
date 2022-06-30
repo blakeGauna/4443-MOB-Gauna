@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095480531382",
+    "project_id": "food-truckz",
+    "storage_bucket": "food-truckz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095480531382:android:61343a10448a465db88917",
+        "android_client_info": {
+          "package_name": "com.example.food_truckz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095480531382-pd75mblg365sniuqur6s9jgfvp8en49t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0tMcTHpUXtAAfCk4bNEALryS3E0buH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095480531382-pd75mblg365sniuqur6s9jgfvp8en49t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
